@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background: #fbfbfb;
+}
+.simple-image-holder {
+	text-align:center;
+}
+.simple-image-holder img {
+	border: 1px solid #ccc;
+	padding: 3px;
+	-webkit-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.75);
+	box-shadow: 0px 2px 3px 0px rgba(0,0,0,0.75);
+}
+.simple-image-holder h3 span {
+    font-size: 12px;
+    font-weight: normal;
+}
