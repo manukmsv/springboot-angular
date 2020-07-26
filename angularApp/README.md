@@ -1,8 +1,8 @@
 # angularapi
 The application for fetch the image and name and display it
 
-Frontend : [Angular](https://github.com/manukmsv/angularapi)
-Backend  : [Spring Boot API](https://github.com/manukmsv/springbootapi)
+Frontend : [Angular App](https://github.com/manukmsv/springboot-angular/tree/master/angularApp)
+Backend  : [Spring Boot API](https://github.com/manukmsv/springboot-angular/tree/master/springBootAPI)
 
 # Angularapp
 

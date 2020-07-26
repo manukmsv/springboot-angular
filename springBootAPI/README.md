@@ -1,8 +1,8 @@
 # Spring Boot REST API
 An Spring Application with two micro services to display RESOURCE FOLDER image name and return image as Base64 
 
-Frontend : [Angular](https://github.com/manukmsv/angularapi)
-Backend  : [Spring Boot API](https://github.com/manukmsv/springbootapi)
+Frontend : [Angular App](https://github.com/manukmsv/springboot-angular/tree/master/angularApp)
+Backend  : [Spring Boot API](https://github.com/manukmsv/springboot-angular/tree/master/springBootAPI)
 
 # URL
 Get Image Name saved in RESOURCE FOLDER
